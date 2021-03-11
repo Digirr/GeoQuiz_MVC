@@ -14,4 +14,10 @@
     <string name="question_africa">Źródło rzeki Nil znajduje się w Egipcie.</string>
     <string name="question_americas">Amazonka to najdłuższa rzeka obu Ameryk.</string>
     <string name="question_asia">Jezoro Bajkał to najstarsze i najgłębsze jezioro słodkowodne na świecie.</string>
+
+    <string name="warning_text">Czy na pewno chcesz to zrobić?</string>
+    <string name="show_answer_button">Pokaż odpowiedź</string>
+    <string name="cheat_button">Podpowiedź</string>
+    <string name="judgment_toast">Oszukiwanie jest złe!</string>
+    <string name="answers_left">Liczba pozostałych odpowiedzi: </string>
 </resources>
